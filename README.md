@@ -10,8 +10,8 @@ python3 mk_w2vec_data.py > data.txt
 2. モデル生成
 python3 mk_w2vec_model_simple.py -i data.txt
 
-<生成物(作成されるモデル)>
-(1)w2vec.model
+<生成物(作成されるモデル)>　\\
+(1)w2vec.model \\
 (2)w2vec.model.trainables.syn1neg.npy
 (3)w2vec.model.wv.vectors.npy
 
