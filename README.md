@@ -15,7 +15,7 @@ python3 mk_w2vec_data.py > data.txt
 python3 mk_w2vec_model_simple.py -i data.txt  <br>
 
 <生成物(作成されるモデル)>　                <br>
-(1)w2vec.model                         <br>
+ (1)w2vec.model                         <br>
 (2)w2vec.model.trainables.syn1neg.npy  <br>
 (3)w2vec.model.wv.vectors.npy          <br>
 
