@@ -11,7 +11,7 @@
 1. 学習データ（data.txt）の生成             <br>
 python3 mk_w2vec_data.py > data.txt
 
-2. モデル生成
+2. モデル生成  <br>
 python3 mk_w2vec_model_simple.py -i data.txt  <br>
 
 <生成物(作成されるモデル)>　                <br>
