@@ -14,10 +14,10 @@ python3 mk_w2vec_data.py > data.txt
 2. モデル生成  <br>
 python3 mk_w2vec_model_simple.py -i data.txt  <br>
 
-&nbsp;<生成物(作成されるモデル)>　                <br>
-&nbsp;(1)w2vec.model                         <br>
-&nbsp;(2)w2vec.model.trainables.syn1neg.npy  <br>
-&nbsp;(3)w2vec.model.wv.vectors.npy          <br>
+\t<生成物(作成されるモデル)>　                <br>
+\t(1)w2vec.model                         <br>
+\t(2)w2vec.model.trainables.syn1neg.npy  <br>
+\t(3)w2vec.model.wv.vectors.npy          <br>
 
 
 3. 単語の分散表現の表示（300次元のベクトル．次元数は変更可能） <br>
