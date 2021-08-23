@@ -4,8 +4,9 @@
   <meta chartype="UTF-8">
   <style>
    h1 {
-     font-size = 16px;
+     font-size: 16px;
    }
+   </style>
  </head>
  <body>
   <h1>distributed_representation</h1>
