@@ -2,6 +2,10 @@
 <html lang="ja">
  <head>
   <meta chartype="UTF-8">
+  <style>
+   h1 {
+     font-size = 16px;
+   }
  </head>
  <body>
   <h1>distributed_representation</h1>
