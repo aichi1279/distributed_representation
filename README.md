@@ -29,11 +29,11 @@
     <li>w2vec.model.wv.vectors.npy</li>
   </ul>
  <h3>3.単語の分散表現の表示（300次元のベクトル．次元数は変更可能） </h3>
-   <p>python3 word2vec.py 電池</p>
-   <p>※「電池」は例でそれ以外も確認可能</p>
+   <p>python3 word2vec.py 電池<br>
+   ※「電池」は例でそれ以外も確認可能</p>
  <h3>4.類似単語の抽出（上位20を表示．変更可能）</h3>
-   <p>python3 calc_similarity.py 電池</p>
-   <p>※「電池」は例でそれ以外も確認可能</p>
+   <p>python3 calc_similarity.py 電池<br>
+   ※「電池」は例でそれ以外も確認可能</p>
  </body>
 </html>
  
