@@ -2,14 +2,9 @@
 <html lang="ja">
  <head>
   <meta chartype="UTF-8">
-  <style>
-   h1 {
-     font-size: 16px;
-   }
-   </style>
  </head>
  <body>
-  <h1>distributed_representation</h1>
+  <h1 style="font-size: 16px;">distributed_representation</h1>
     <p>
      テキスト記事データのディレクトリ100～200まで記事データとして、word2vecを用いて単語の分散表現を得るモデルを作成した。<br>
      本プログラムの「1.学習データ（data.txt）の生成」でCorpusデータの読み込みを行っているが、このCorpusデータを本レポジトリにpushしていないため、「1.学習データ（data.txt）の生成」の実装はできない。
